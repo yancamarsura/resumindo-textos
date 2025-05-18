@@ -1,4 +1,4 @@
-**Resumidor de textos com Gemini: Seu Aliado Diário para Informação Essencial 🚀**
+# Resumidor de textos com Gemini: Seu Aliado Diário para Informação Essencial 🚀
 
 Imagine a seguinte situação: você se depara com um artigo extenso sobre um tema crucial para o seu trabalho ou talvez você queira se manter atualizado com as últimas notícias, mas são muitas informações.
 
